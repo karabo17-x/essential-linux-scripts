@@ -1,4 +1,17 @@
-# Linux Bash Scripts
+# Essential Linux Bash Scripts Collection
+
+[![GitHub stars](https://img.shields.io/github/stars/Moon9t/essential-linux-scripts?style=flat-square)](https://github.com/Moon9t/essential-linux-scripts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Moon9t/essential-linux-scripts?style=flat-square)](https://github.com/Moon9t/essential-linux-scripts/network)
+[![GitHub issues](https://img.shields.io/github/issues/Moon9t/essential-linux-scripts?style=flat-square)](https://github.com/Moon9t/essential-linux-scripts/issues)
+[![GitHub license](https://img.shields.io/github/license/Moon9t/essential-linux-scripts?style=flat-square)](https://github.com/Moon9t/essential-linux-scripts/blob/main/LICENSE)
+[![Bash](https://img.shields.io/badge/Language-Bash-green?style=flat-square&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Platform-Linux-blue?style=flat-square&logo=linux)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/Cloud-GCP-blue?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Docker](https://img.shields.io/badge/Container-Docker-blue?style=flat-square&logo=docker)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
+[![Scripts](https://img.shields.io/badge/Scripts-16-brightgreen?style=flat-square)](https://github.com/Moon9t/essential-linux-scripts)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-green?style=flat-square)](https://github.com/Moon9t/essential-linux-scripts/graphs/commit-activity)
 
 A curated collection of bash scripts for developers, daily users, and system administrators that work seamlessly on both PC and server environments.
 
